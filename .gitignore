@@ -1,0 +1,45 @@
+# Firebase
+.firebase/
+firestore.indexes.json
+firestore.rules
+firebase-debug.log
+firebase-debug.*.log
+firebase-debug.log.*
+firebase-debug.*
+
+# Google Cloud Functions
+.functions/
+
+# General build artifacts
+build/
+output/
+tmp/
+temp/
+cache/
+
+# Firebase emulators
+database-debug.log
+firebase-debug.log
+
+# Additional directories or files
+coverage/
+*.bak
+*.backup
+*.test
+node_modules/
+dist/
+dist-ssr/
+.idea/
+.vscode/
+*.local
+.env*
+.secret.*
+.eslintcache
+*.pid
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+package-lock.json
+yarn.lock
